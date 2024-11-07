@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">playmusic</string>
+    <string name="next">⏭</string>
+    <string name="pause">▶</string>
+    <string name="previous">⏮</string>
+    <string name="album">album</string>
+    <string name="artis">artis</string>
+    <string name="lagu">lagu</string>
+    <string name="album_art">album</string>
+    <string name="nirvana">Nirvana</string>
+    <string name="smells_like_teen_spirit">Smells like teen spirit</string>
+</resources>
